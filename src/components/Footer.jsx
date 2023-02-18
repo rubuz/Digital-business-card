@@ -8,16 +8,16 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer__main">
-      <a href="www.twitter.com">
+      <a href="https://www.twitter.com">
         <img src={twiterIcon} alt="twitter icon" />
       </a>
-      <a href="www.facebook.com">
+      <a href="https://www.facebook.com">
         <img src={fbIcon} alt="facebook icon" />
       </a>
-      <a href="www.instagram.com">
+      <a href="https://www.instagram.com">
         <img src={igIcon} alt="instagram icon" />
       </a>
-      <a href="www.github.com">
+      <a href="https://www.github.com">
         <img src={ghIcon} alt="github icon" />
       </a>
     </div>
