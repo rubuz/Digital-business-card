@@ -1,0 +1,7 @@
+.main__container {
+  margin: 2rem;
+  width: 317px;
+  min-height: 200px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}

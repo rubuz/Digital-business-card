@@ -1,0 +1,19 @@
+.footer__main {
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  background-color: #d5d4d8;
+  border-radius: 0 0 10px 10px;
+}
+
+.footer__main img {
+  width: 25px;
+}
+
+.footer__main img:hover {
+  filter: invert(36%) sepia(59%) saturate(1311%) hue-rotate(185deg)
+    brightness(106%) contrast(90%);
+  transition: 0.2s;
+}
